@@ -1,9 +1,9 @@
 @font-face{
     font-family: 'Poppins';
-    src: url(https://cdn.jsdelivr.net/gh/hostmind/host@latest/fonts/Poppins-Regular.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/hostmind/host@latest/static/Poppins-Regular.ttf);
 }
 
 @font-face{
     font-family: 'Poppins-Bold';
-    src: url(https://cdn.jsdelivr.net/gh/hostmind/host@latest/fonts/Poppins-Bold.ttf);
+    src: url(https://cdn.jsdelivr.net/gh/hostmind/host@latest/static/Poppins-Bold.ttf);
 }
